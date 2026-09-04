@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "chasepad-client-readiness",
+  "displayName": "ChasePad Client Readiness",
+  "version": "1.0.0",
+  "description": "Turn client proposals, briefs, scopes and kickoff notes into tailored onboarding plans and evidence-based readiness audits.",
+  "author": {
+    "name": "Sisi Ncube",
+    "url": "https://chasepad.com"
+  },
+  "homepage": "https://chasepad.com/client-onboarding-readiness",
+  "repository": "https://github.com/sisincube/chasepad-client-readiness-claude",
+  "keywords": ["client-onboarding", "project-readiness", "agency", "kickoff", "chasepad"],
+  "mcpServers": "./.mcp.json"
+}
