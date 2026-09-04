@@ -3,7 +3,7 @@ name: prepare-client-onboarding
 description: Build a tailored client onboarding plan and evidence-based project readiness audit from a proposal, brief, scope, meeting notes, email summary, or checklist. Use for agency kickoff preparation, onboarding checklists, missing asset and access audits, approval mapping, client request lists, pre-kickoff risk checks, and questions about whether a client project is ready to start.
 ---
 
-# Prepare Client Onboarding
+# ChasePad Client Onboarding Readiness
 
 Turn the user's source material into two complementary deliverables:
 
