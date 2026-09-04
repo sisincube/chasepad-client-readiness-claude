@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "chasepad-client-readiness",
-  "displayName": "ChasePad Client Readiness",
+  "displayName": "ChasePad Client Onboarding Readiness",
   "version": "1.0.0",
   "description": "Turn client proposals, briefs, scopes and kickoff notes into tailored onboarding plans and evidence-based readiness audits.",
   "author": {
