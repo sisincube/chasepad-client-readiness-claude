@@ -1,6 +1,6 @@
-# ChasePad Client Readiness for Claude
+# ChasePad Client Onboarding Readiness for Claude
 
-ChasePad Client Readiness turns client proposals, briefs, scopes and kickoff notes into a tailored onboarding plan and an evidence-based readiness audit.
+ChasePad Client Onboarding Readiness turns client proposals, briefs, scopes and kickoff notes into a tailored onboarding plan and an evidence-based readiness audit.
 
 It helps agencies and client-facing teams identify missing assets, content, access, approvals, owners, dates, dependencies and true kickoff blockers before work starts.
 
